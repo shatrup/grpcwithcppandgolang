@@ -6,6 +6,7 @@ require (
 	github.com/census-instrumentation/opencensus-proto v0.4.1
 	github.com/cncf/xds/go v0.0.0-20231128003011-0fa0005c9caa
 	github.com/golang/protobuf v1.5.4
+	github.com/gorilla/mux v1.8.1
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	google.golang.org/api v0.172.0
 	google.golang.org/grpc v1.63.0

@@ -22,4 +22,5 @@ func main() {
 		log.Fatalf("could not greet: %v", err)
 	}
 	log.Printf("Response: %s", r.Text)
+
 }
